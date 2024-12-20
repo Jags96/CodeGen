@@ -37,7 +37,6 @@ This research provides insights into the strengths and limitations of transforme
 
 
 ### About resources:
-0. Indiana University has provided GPU A100 for training the model.
 1. Llama open weights and model https://www.llama.com/llama2/
 2. Code-parrot-clean dataset https://huggingface.co/datasets/codeparrot/codeparrot-clean
 3. Alpaca 18k dataset https://huggingface.co/datasets/iamtarun/python_code_instructions_18k_alpaca
